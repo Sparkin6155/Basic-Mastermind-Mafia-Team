@@ -1,3 +1,3 @@
-bird: Fletch.rb
-father: godfather.rb
-gimmepie: daniel.rb
+bird: bundle exec ruby Fletch.rb
+father: bundle exec ruby godfather.rb
+gimmepie: bundle exec ruby daniel.rb
